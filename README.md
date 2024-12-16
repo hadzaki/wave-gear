@@ -3,10 +3,10 @@ The wave gear with intermediate rolling elements
 Установка и запуск
 1) для запуска необходимо установит python 3
 
-2) библиотеки для работы скрипта: "dxfwrite", "tkinter", "math".
-pip install dxfwrite, tkinter, math
+2) библиотеки для работы скрипта: "dxfwrite", "tkinter" или "Tk", "math".
+pip install dxfwrite Tk
 или
-python -m pip install dxfwrite, tkinter, math
+python -m pip install dxfwrite TK
 
 3) запуск программы
 !!!!!!!!!!!!!
