@@ -34,7 +34,7 @@ def massiv_tocheck(D_generatora=25, D_tela_kacenia=4.5, a=0.9, u_vpadin=10,kolic
 # функция записи точекиии
 def dxfwrite(t1):
   i=0
-  t1=t1.append(t1[0])
+  t1.append(t1[0])
   n=len(t1)-1
   print("Начало")
   drawing = dxf.drawing('test.dxf')
