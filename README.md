@@ -1,4 +1,5 @@
-# wave-gear
+# wave-gear ВПТК
+Расчёт волонового редуктора с промежуточными телами качения
 The wave gear with intermediate rolling elements
 Установка и запуск
 1) для запуска необходимо установит python 3
